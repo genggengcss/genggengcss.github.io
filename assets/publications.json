@@ -1,0 +1,123 @@
+[   {
+        "title": "Toward 3D Object Reconstruction from Stereo Images",
+        "authors": "Haozhe Xie, Hongxun Yao, Shangchen Zhou, Shengping Zhang, Xiaoshuai Sun, Wenxiu Sun",
+        "preprint": "arXiv preprint:1910.08223",
+        "year": 2019,
+        "highlight": false,
+        "pdf": "https://arxiv.org/pdf/1910.08223.pdf",
+        "bibtex": "@article{xie2019stereo2shape,\n  title={Toward 3D Object Reconstruction from Stereo Images},\n  author={Xie, Haozhe and Yao, Hongxun and Zhou, Shangchen and Zhang, Shengping and Sun, Xiaoshuai and Sun, Wenxiu},\n  journal={arXiv preprint:1910.08223},\n  year={2019}\n}"
+    },
+    {
+        "title": "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation",
+        "authors": "Sheng Jin, Shangchen Zhou, Yao Liu, Chao Chen, Xiaoshuai Sun, Hongxun Yao, Xiansheng Hua",
+        "conference": "in Proceedings of AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>",
+        "year": 2020,
+        "highlight": true,
+        "img": "assets/img/papers/Conf2020_ssah.png",
+        "pdf": "https://arxiv.org/pdf/1911.08688.pdf",
+        "bibtex": "@article{jin2019ssah,\n  title={SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation},\n  author={Jin, Sheng and Zhou, Shangchen and Liu, Yao and Chen, Chao and Sun, Xiaoshuai and Yao, Hongxun and Hua, Xiansheng},\n  journal={arXiv preprint:1911.08688},\n  year={2019}\n}"
+    },
+    {
+        "title": "Hybrid Graph Neural Networks for Crowd Counting",
+        "authors": "Ao Luo, Fan Yang, Xin Li, Dong Nie, Zhicheng Jiao, Shangchen Zhou, Hong Cheng",
+        "conference": "in Proceedings of AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>",
+        "year": 2020,
+        "highlight": false,
+        "img": "assets/img/papers/Conf2020_hygnn.png",
+        "pdf": "https://arxiv.org/pdf/2002.00092.pdf",
+        "bibtex":"@article{luo2020hybrid,\n  title={Hybrid Graph Neural Networks for Crowd Counting},\n  author={Luo, Ao and Yang, Fan and Li, Xin and Nie, Dong and Jiao, Zhicheng and Zhou, Shangchen and Cheng, Hong},\n  journal={arXiv preprint:2002.00092},\n  year={2020}\n}"
+    },
+    {
+        "title": "Spatio-Temporal Filter Adaptive Network for Video Deblurring",
+        "authors": "Shangchen Zhou, Jiawei Zhang, Jinshan Pan, Haozhe Xie, Wangmeng Zuo, Jimmy Ren",
+        "conference": "in the Proceedings of IEEE International Conference on Computer Vision <strong>(ICCV)</strong>",
+        "year": 2019,
+        "highlight": true,
+        "img": "assets/img/papers/Conf2019_stfan.png",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Spatio-Temporal_Filter_Adaptive_Network_for_Video_Deblurring_ICCV_2019_paper.pdf",
+        "project": "/projects/stfan",
+        "bibtex": "@inproceedings{zhou2019stfan,\n  title={Spatio-Temporal Filter Adaptive Network for Video Deblurring},\n  author={Zhou, Shangchen and Zhang, Jiawei and Pan, Jinshan and Xie, Haozhe and  Zuo, Wangmeng and Ren, Jimmy},\n  booktitle={Proceedings of the IEEE International Conference on Computer Vision},\n  year={2019}\n}"
+    },
+    {
+        "title": "Pix2Vox: Context-aware 3D Reconstruction from Single and Multi-view Images",
+        "authors": "Haozhe Xie, Hongxun Yao, Xiaoshuai Sun, Shangchen Zhou, Shengping Zhang",
+        "conference": "in the Proceedings of IEEE International Conference on Computer Vision <strong>(ICCV)</strong>",
+        "year": 2019,
+        "highlight": true,
+        "img": "assets/img/papers/Conf2019_pix2vox.png",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Xie_Pix2Vox_Context-Aware_3D_Reconstruction_From_Single_and_Multi-View_Images_ICCV_2019_paper.pdf",
+        "project": "https://infinitescript.com/project/pix2vox/",
+        "bibtex": "@inproceedings{xie2019pix2vox,\n  title={Pix2Vox: Context-aware 3D Reconstruction from Single and Multi-view Images},\n  author={Xie, Haozhe and Yao, Hongxun and Sun, Xiaoshuai and Zhou, Shangchen and Zhang, Shengping},\n  booktitle={Proceedings of the IEEE International Conference on Computer Vision},\n  year={2019}\n}"
+    },
+    {
+        "title": "DAVANet: Stereo Deblurring with View Aggregation",
+        "authors": "Shangchen Zhou, Jiawei Zhang, Wangmeng Zuo, Haozhe Xie, Jinshan Pan, Jimmy Ren",
+        "conference": "in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>",
+        "note": "<strong><font color=\"#DC143C\">Oral Presentation</font></strong>",
+        "year": 2019,
+        "highlight": true,
+        "img": "assets/img/papers/Conf2019_stereodeblur.png",
+        "pdf": "http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.pdf",
+        "project": "/projects/davanet",
+        "dataset": "//stereoblur.shangchenzhou.com",
+        "bibtex": "@inproceedings{zhou2019davanet,\n  title={{DAVANet}: Stereo Deblurring with View Aggregation},\n  author={Zhou, Shangchen and Zhang, Jiawei and Zuo, Wangmeng and Xie, Haozhe and Pan, Jinshan and Ren, Jimmy},\n  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},\n  pages={10996--11005},\n  year={2019}\n}"
+    },
+    {
+        "title": "Association Study of Alzheimer’s Disease with Tree-guided Sparse Canonical Correlation Analysis",
+        "authors": "Shangchen Zhou, Shuai Yuan, Zhizhuo Zhang, Zenglin Xu",
+        "conference": "International Conference on Neural Information Processing (ICONIP)",
+        "year": 2018,
+        "highlight": false,
+        "pdf": "assets/paper/Zhou2018Association.pdf",
+        "bibtex": "@inproceedings{zhou2018tgscca,\n  title={Association Study of Alzheimer’s Diseasewith Tree-guided Sparse Canonical Correlation Analysis},\n  author={Zhou, Shangchen and Yuan, Shuai and Zhang, Zhizhuo and Xu, Zenglin},\n  booktitle={International Conference on Neural Information Processing},\n  pages={585--597},\n  year={2018},\n  organization={Springer}\n}"
+    },
+    {
+        "title": "Weighted Voxel: A Novel Voxel Representation for 3D Reconstruction",
+        "authors": "Haozhe Xie, Hongxun Yao, Xiaoshuai Sun, Shangchen Zhou, Xiaojun Tong",
+        "conference": "International Conference on Internet Multimedia Computingand Service (ICIMCS)",
+        "year": 2018,
+        "highlight": false,
+        "pdf": "https://infinitescript.com/wordpress/wp-content/uploads/publications/xie2018weighted.pdf",
+        "project": "https://infinitescript.com/project/weighted-voxel/",
+        "bibtex": "@inproceedings{xie2018weighted,\n  title={Weighted voxel: a novel voxel representation for 3D reconstruction},\n  author={Xie, Haozhe and Yao, Hongxun and Sun, Xiaoshuai and Zhou, Shangchen and Tong, Xiaojun},\n  booktitle={Proceedings of the 10th International Conference on Internet Multimedia Computing and Service},\n  pages={33--36},\n  year={2018},\n  organization={ACM}\n}"
+    },
+    {
+        "title": "Tree-guided Group Sparse based Representation for Person Re-identification",
+        "authors": "Shangchen Zhou, Hongxun Yao, Wei Yu, Yasi Wang",
+        "conference": "International Conference on Internet Multimedia Computingand Service (ICIMCS)",
+        "note": "<a href=\"assets/img/awards/ICIMCS-best-paper-award.jpg\" target=\"_blank\"><strong><font color=\"#DC143C\">Best Paper Award</font></strong></a>",
+        "year": 2016,
+        "highlight": false,
+        "img": "assets/img/papers/Conf2016_tree_reid.png",
+        "pdf": "assets/paper/Zhou2016Tree.pdf",
+        "bibtex": "@inproceedings{zhou2016tree,\n  title={Tree-guided Group Sparse based Representation for Person Re-identification},\n  author={Zhou, Shangchen and Yao, Hongxun and Yu, Wei and Wang, Yasi},\n  booktitle={Proceedings of the International Conference on Internet Multimedia Computing and Service},\n  pages={14--17},\n  year={2016},\n  organization={ACM}\n}"
+    },
+    {
+        "title": "Deep Saliency Hashing for Fine-grained Retrieval",
+        "authors": "Sheng Jin, Xiaoshuai Sun, Hongxun Yao, Shangchen Zhou, Xiansheng Hua, Lei Zhang",
+        "journal": "IEEE Transactions on Image Processing <strong>(TIP)</strong>",
+        "year": 2020,
+        "highlight": true,
+        "img": "assets/img/papers/Jour2019_saliency_hashing.png",
+        "pdf": "https://arxiv.org/pdf/1807.01459.pdf",
+        "bibtex": "@article{jin2019saliency,\n  title={Deep Saliency Hashing},\n  author={Jin, Sheng and Sun, Xiaoshuai and Yao, Hongxun and Zhou, Shangchen and Hua, Xiansheng and Zhang, lei},\n  journal={IEEE Transactions on Image Processing},\n  year={2019}\n}"
+    },
+    {
+        "title": "Unsupervised Semantic Deep Hashing",
+        "authors": "Sheng Jin, Xiaoshuai Sun, Hongxun Yao, Shangchen Zhou",
+        "journal": "Neurocomputing",
+        "year": 2019,
+        "highlight": false,
+        "pdf": "assets/paper/Jin2019Unsupervised.pdf",
+        "bibtex": "@article{jin2019unsupervised,\n  title={Unsupervised semantic deep hashing},\n  author={Jin, Sheng and Sun, Xiaoshuai and Yao, Hongxun and Zhou, Shangchen},\n  journal={Neurocomputing},\n  year={2019},\n  publisher={Elsevier}\n}"
+    },
+    {
+        "title": "Gradual recovery based occluded digit images recognition",
+        "authors": "Yasi Wang, Hongxun Yao, Wei Yu, Dong Wang, Shangchen Zhou, Xiaoshuai Sun",
+        "journal": "Multimedia Tools and Applications",
+        "year": 2018,
+        "highlight": false,
+        "pdf": "assets/paper/Wang2018Gradual.pdf",
+        "bibtex": "@article{wang2018gradual,\n  title={Gradual recovery based occluded digit images recognition},\n  author={Wang, Yasi and Yao, Hongxun and Yu, Wei and Wang, Dong and Zhou, Shangchen and Sun, Xiaoshuai},\n  journal={Multimedia Tools and Applications},\n  pages={1--16},\n  year={2018},\n  publisher={Springer}\n}"
+    }
+]
